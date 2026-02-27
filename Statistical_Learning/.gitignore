@@ -1,0 +1,9 @@
+*.sqlite
+data/data/
+data/
+*.sqlite
+
+data/
+*.sqlite
+
+*.Rhistory
